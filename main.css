@@ -33,7 +33,7 @@ body {
     margin: 0 20px;
 }
 
-#search::placeholder {
+#search, #search::placeholder {
     color: white;
 }
 
